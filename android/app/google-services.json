@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818820846521",
+    "firebase_url": "https://wallet-manage.firebaseio.com",
+    "project_id": "wallet-manage",
+    "storage_bucket": "wallet-manage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818820846521:android:8c1109720dc0c8f9",
+        "android_client_info": {
+          "package_name": "com.example.wallet_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818820846521-hgtl0gos0oplnspk16ejg7h8kboa1e7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkzpRDexOzWa-jr9LDIHo0o9O_IQSdJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818820846521-hgtl0gos0oplnspk16ejg7h8kboa1e7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
