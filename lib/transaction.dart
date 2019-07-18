@@ -38,6 +38,7 @@ class _TransactionPageState extends State<TransactionPage> {
                       if (input.isEmpty){
                         return 'Please enter the value';
                       }
+                      return null;
                     },
                     onSaved: (input) => this._amount = double.parse(input),
                     controller: _amountController,
@@ -53,6 +54,7 @@ class _TransactionPageState extends State<TransactionPage> {
                       if (input.isEmpty){
                         return 'Please enter the description';
                       }
+                      return null;
                     },
                     onSaved: (input) => this._desc = input,
                     controller: _descController,
